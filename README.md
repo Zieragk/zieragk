@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛡️ Hacker & Electronic Systems Installation Technician</h1>
+  <h1>  Ethical Hacker & Full stack </h1>
   <p><i>Especialista en integración de sistemas, seguridad ofensiva y automatización.</i></p>
 </div>
 
@@ -33,7 +33,7 @@ Técnico apasionado por la convergencia entre el **hardware electrónico** y la 
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Stats de TU_USUARIO" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zieragk&show_icons=true&theme=tokyonight" alt="Stats de TU_USUARIO" />
 </p>
 
 ---
