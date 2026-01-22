@@ -42,4 +42,4 @@ Técnico apasionado por la convergencia entre el **hardware electrónico** y la 
 * **Pentesting:** Auditorías de red y seguridad en sistemas embebidos.
 * **Domótica:** Instalación y programación de sistemas electrónicos inteligentes.
 * **Desarrollo Backend:** Creación de APIs robustas con Python y PHP.
-p>
+
