@@ -5,12 +5,12 @@
 
 ---
 
-### 🚀 Sobre mí
+###   Sobre mí
 Técnico apasionado por la convergencia entre el **hardware electrónico** y la **seguridad informática**. Mi enfoque combina la instalación física de sistemas con el desarrollo de herramientas personalizadas para optimizar la infraestructura y la defensa de datos.
 
 ---
 
-### 🛠️ Stack Tecnológico
+###   Stack Tecnológico
 
 #### **Lenguajes de Programación**
 <p align="left">
@@ -31,14 +31,14 @@ Técnico apasionado por la convergencia entre el **hardware electrónico** y la 
 
 ---
 
-### 📊 Estadísticas de GitHub
+###   Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zieragk&show_icons=true&theme=tokyonight" alt="Stats de TU_USUARIO" />
 </p>
 
 ---
 
-### ⚡ Intereses y Proyectos
+###   Intereses y Proyectos
 * **Pentesting:** Auditorías de red y seguridad en sistemas embebidos.
 * **Domótica:** Instalación y programación de sistemas electrónicos inteligentes.
 * **Desarrollo Backend:** Creación de APIs robustas con Python y PHP.
